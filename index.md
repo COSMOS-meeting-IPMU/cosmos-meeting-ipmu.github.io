@@ -1,293 +1,80 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+---
+layout: single
+author_profile: false
+---
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+![cosmos](/_images/cosmos-narrow.jpeg)
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Settings
-locale                   : "en-US"
-title                    : "All About Galaxies"
-title_separator          : "-"
-subtitle                 : "Kavli IPMU, The University of Tokyo" #site tagline that appears below site title in masthead
-name                     : #"none"
-description              : "A website for our group."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/_images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
-reCaptcha:
-  siteKey                :
-  secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
-lunr:
-  search_within_pages    : # true, false (default)
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
-google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-naver_site_verification  :
-yandex_site_verification :
-baidu_site_verification  :
-
-# Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-# Analytics
-analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
-
-
-# Site Author
-author:
-  name             : "Galaxy Group @ Kavli IPMU"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Nothing special."
-  location         : #"Somewhere"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - _images
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-# HTML Compression
-# - https://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+## Introduction
+The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" aims to explore ways to make discoveries in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will follow the theme of "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with talks and discussions.
+## Information
+* Time: January 22-26, 2024
+* Location (Mon, Wed-Fri): Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8))
+* Location (Tues): U-Tokyo DLX Design Lab - Kashiwa II Campus ([map](https://maps.app.goo.gl/jpgZn2fQVJKwhQg5A))
+* [Access](https://www.ipmu.jp/visitors/access-ipmu)
+* [Hotels](https://www.ipmu.jp/visitors/accommodation)
+* Food near campus: [map](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&usp=sharing)
+* [Cosmologists’ Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
+* Slack and Zoom: please find the info in the announcement email
+* Contact email: ai4phys.cd3@gmail.com
+## Participants
+* [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1689797346&single=true)
+* Registration deadline: November 30, 2023
+* Registration form: closed
+## Schedule
+* [Full schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1995226109&single=true)
+* [Fireslides](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=680479747&single=true): 1 minute presentation
+* Hack teams (TBD)
+## Speakers
+[Bert Chan](https://chakazul.github.io/) (Google DeepMind)\
+[Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
+[Miles Cranmer](https://astroautomata.com/) (Cambridge University)\
+[Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (Simons Foundation)\
+[Shirley Ho](https://www.shirleyho.me/) (Simons Foundation)\
+[Mark Huertas-Company](https://mhuertascompany.weebly.com/) (IAC)\
+[Nicoletta Krachmalnicoff](https://www.sissa.it/ap/members.php?ID=174) (SISSA)\
+[François Lanusse](https://flanusse.net/) (Simons Foundation/CNRS)\
+[Yin Li](https://scholar.google.com/citations?user=EAUmw6UAAAAJ) (Peng Cheng Laboratory)\
+[Kana Moriwaki](http://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (U Tokyo)\
+[Sam Passaglia](https://www.passaglia.jp/) (Elyza)\
+[Mariel Pettee](https://marielpettee.com/) (LBNL)\
+[Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm) (Kavli IPMU)\
+[Francisco Villaescusa Navarro](https://franciscovillaescusa.github.io/) (Simons Foundation)\
+[Denny Wu](https://www.cs.toronto.edu/~dennywu/) (NYU CDS & Flatiron CCM)\
+[Makoto Yamada](https://www.oist.jp/research/makoto-yamada) (OIST)
+## Organizers
+SOC:\
+Jia Liu (Co-chair, Kavli IPMU)\
+Shirley Ho (Co-chair, Simons Foundation)\
+Leander Thiele (Princeton University)\
+Tomotake Matsumura (Kavli IPMU)\
+Jingjing Shi (Kavli IPMU)\
+Masahiro Takada (Kavli IPMU)\
+Hideki Tanimura (Kavli IPMU)\
+Miles Cranmer (Cambridge University)\
+Mike McCabe (Simons Foundation)\
+Ruben Ohana (Simons Foundation)
+LOC:\
+Khee-Gan (K.G.) Lee (Chair, Kavli IPMU)\
+Kateryna Vovk (Kavli IPMU)\
+Joaquin Armijo (Kavli IPMU)\
+Linda Blot (Kavli IPMU)\
+Hironao Miyatake ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/), Nagoya University)\
+Keiya Hirashima (Department of Astronomy, University of Tokyo)
+## Sponsors
+* Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
+* [Simons Foundation](https://www.simonsfoundation.org/)
+* Program for Fugaku: [JPMXP1020230406](https://www2.ccs.tsukuba.ac.jp/aiuniverse/index.html), University of Tsukuba
+* [DLX Design Lab](https://www.designlab.ac/), University of Tokyo
+## Acknowledgement
+If you initiated, performed, or performed in part a project during the workshop, please add the following acknowledgment in your publication:
+This work was initiated (or performed in part) at the CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" from January 22-26, 2024, at Kavli IPMU, Kashiwa, Japan.
+ipmu.jp
+Access to Kavli IPMU
+Train and Bus Route Map **The nearest station is Kashiwanoha campus station of Tsukuba Express line.
+ipmu.jp
+Hotels
+Hotels near IPMU   **C. F. :    Sorry, only displayed in Japanese   Hotel name Location Contact A Mitsui Garden Hotel Kashiwanoha   2min walk from Kashiwanoha- campus station, West TEL: 04-7134-3131
+Google My MapsGoogle My Maps
+AI4Phys workshop - Google My Maps
+Important places (82 kB)
