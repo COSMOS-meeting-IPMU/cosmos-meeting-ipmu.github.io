@@ -6,9 +6,9 @@ author_profile: false
 ![cosmos](/_images/cosmos-narrow.jpeg)
 
 ## Introduction
-The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" aims to explore ways to make discoveries in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will follow the theme of "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with talks and discussions.
+The Annual COSMOS team meeting will be held in Japan.
 ## Information
-* Time: January 22-26, 2024
+* Time: July 8-12, 2024
 * Location (Mon, Wed-Fri): Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8))
 * Location (Tues): U-Tokyo DLX Design Lab - Kashiwa II Campus ([map](https://maps.app.goo.gl/jpgZn2fQVJKwhQg5A))
 * [Access](https://www.ipmu.jp/visitors/access-ipmu)
