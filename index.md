@@ -9,8 +9,7 @@ author_profile: false
 The Annual COSMOS team meeting will be held in Japan. While the workshop will be focused on the COSMOS-Web NIRCAM and MIRI imaging large program, additional key projects to be discussed include the ALMA large program CHAMPS and the JWST IFU followup of ALPINE/CRISTAL galaxies. We welcome both the COSMOS team and external participants interested in COSMOS.  
 ## Information
 * Time: July 8-12, 2024
-* Location (Mon, Wed-Fri): Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8))
-* Location (Tues): U-Tokyo DLX Design Lab - Kashiwa II Campus ([map](https://maps.app.goo.gl/jpgZn2fQVJKwhQg5A))
+* Location (Mon-Fri): Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8))
 * [Access](https://www.ipmu.jp/visitors/access-ipmu)
 * [Hotels](https://www.ipmu.jp/visitors/accommodation)
 * Food near campus: [map](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&usp=sharing)
