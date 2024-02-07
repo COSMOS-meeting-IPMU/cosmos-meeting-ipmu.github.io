@@ -13,7 +13,7 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 * [Access](https://www.ipmu.jp/visitors/access-ipmu)
 * [Hotels](https://www.ipmu.jp/visitors/accommodation)
 * Food near campus: [map](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&usp=sharing)
-* [Cosmologists’ Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
+* [Astrophysicists' Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
 * Slack and Zoom: please find the info in the announcement email
 * Contact email: ai4phys.cd3@gmail.com
 ## Participants
