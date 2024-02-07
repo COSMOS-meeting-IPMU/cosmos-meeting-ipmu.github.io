@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 ---
-## COSMOS-(Web) meeting
+## COSMOS-(Web) meeting 2024
 ![cosmos](/_images/cosmos_hsc_half.jpg)
 
 ## Introduction
