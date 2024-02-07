@@ -23,7 +23,8 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 ## Schedule
 * [Tentative schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1995226109&single=true)
 * [Fireslides](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=680479747&single=true): 1 minute presentation
-* Hack teams (TBD)
+* COSMOS-Web
+* CHAMPS
 ## Speakers
 [Bert Chan](https://chakazul.github.io/) (Google DeepMind)\
 [Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
