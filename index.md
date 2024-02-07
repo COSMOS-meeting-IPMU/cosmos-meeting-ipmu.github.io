@@ -28,23 +28,10 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 ## Speakers
 [Bert Chan](https://chakazul.github.io/) (Google DeepMind)\
 [Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
-[Miles Cranmer](https://astroautomata.com/) (Cambridge University)\
-[Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (Simons Foundation)\
-[Shirley Ho](https://www.shirleyho.me/) (Simons Foundation)\
-[Mark Huertas-Company](https://mhuertascompany.weebly.com/) (IAC)\
-[Nicoletta Krachmalnicoff](https://www.sissa.it/ap/members.php?ID=174) (SISSA)\
-[François Lanusse](https://flanusse.net/) (Simons Foundation/CNRS)\
-[Yin Li](https://scholar.google.com/citations?user=EAUmw6UAAAAJ) (Peng Cheng Laboratory)\
-[Kana Moriwaki](http://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (U Tokyo)\
-[Sam Passaglia](https://www.passaglia.jp/) (Elyza)\
-[Mariel Pettee](https://marielpettee.com/) (LBNL)\
-[Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm) (Kavli IPMU)\
-[Francisco Villaescusa Navarro](https://franciscovillaescusa.github.io/) (Simons Foundation)\
-[Denny Wu](https://www.cs.toronto.edu/~dennywu/) (NYU CDS & Flatiron CCM)\
-[Makoto Yamada](https://www.oist.jp/research/makoto-yamada) (OIST)
+
 ## Organizers
 SOC:\
-Jia Liu (Co-chair, Kavli IPMU)\
+John Silverman (Co-chair, Kavli IPMU)\
 Shirley Ho (Co-chair, Simons Foundation)\
 Leander Thiele (Princeton University)\
 Tomotake Matsumura (Kavli IPMU)\
@@ -55,12 +42,10 @@ Miles Cranmer (Cambridge University)\
 Mike McCabe (Simons Foundation)\
 Ruben Ohana (Simons Foundation)
 LOC:\
-Khee-Gan (K.G.) Lee (Chair, Kavli IPMU)\
-Kateryna Vovk (Kavli IPMU)\
-Joaquin Armijo (Kavli IPMU)\
-Linda Blot (Kavli IPMU)\
-Hironao Miyatake ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/), Nagoya University)\
-Keiya Hirashima (Department of Astronomy, University of Tokyo)
+John Silverman (Kavli IPMU)\
+Boris Kalita (Kavli IPMU)\
+Takumi Tanaka (Kavli IPMU)\
+Zhaixuan Liu (Kavli IPMU)\
 ## Sponsors
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
 * [Simons Foundation](https://www.simonsfoundation.org/)
