@@ -40,7 +40,7 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 ## Organizers
 SOC:\
 John Silverman (Kavli IPMU)\
-K. G. Lee (Kavli IPMU)\
+K. G. Lee (Kavli IPMU)
 
 LOC:\
 John Silverman (Kavli IPMU)\
