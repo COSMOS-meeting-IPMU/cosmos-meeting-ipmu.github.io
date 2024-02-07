@@ -15,7 +15,7 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 * Food near campus: [map](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&usp=sharing)
 * [Astrophysicists' Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
 * Slack and Zoom: please find the info in the announcement email
-* Contact email: cosmos2024_tokyo@gmail.com
+* Contact email: cosmos2024@ipmu.jp
 ## Participants
 * [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1689797346&single=true)
 * Registration deadline: May 31, 2024
