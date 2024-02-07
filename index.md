@@ -32,15 +32,7 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 ## Organizers
 SOC:\
 John Silverman (Co-chair, Kavli IPMU)\
-Shirley Ho (Co-chair, Simons Foundation)\
-Leander Thiele (Princeton University)\
-Tomotake Matsumura (Kavli IPMU)\
-Jingjing Shi (Kavli IPMU)\
-Masahiro Takada (Kavli IPMU)\
-Hideki Tanimura (Kavli IPMU)\
-Miles Cranmer (Cambridge University)\
-Mike McCabe (Simons Foundation)\
-Ruben Ohana (Simons Foundation)
+
 LOC:\
 John Silverman (Kavli IPMU)\
 Boris Kalita (Kavli IPMU)\
