@@ -41,9 +41,7 @@ Takumi Tanaka (Kavli IPMU)\
 Zhaixuan Liu (Kavli IPMU)\
 ## Sponsors
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
-* [Simons Foundation](https://www.simonsfoundation.org/)
-* Program for Fugaku: [JPMXP1020230406](https://www2.ccs.tsukuba.ac.jp/aiuniverse/index.html), University of Tsukuba
-* [DLX Design Lab](https://www.designlab.ac/), University of Tokyo
+
 ## Acknowledgement
 If you initiated, performed, or performed in part a project during the workshop, please add the following acknowledgment in your publication:
 This work was initiated (or performed in part) at the CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" from January 22-26, 2024, at Kavli IPMU, Kashiwa, Japan.
