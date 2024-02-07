@@ -43,14 +43,3 @@ Zhaixuan Liu (Kavli IPMU)\
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
 
 ## Acknowledgement
-If you initiated, performed, or performed in part a project during the workshop, please add the following acknowledgment in your publication:
-This work was initiated (or performed in part) at the CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" from January 22-26, 2024, at Kavli IPMU, Kashiwa, Japan.
-ipmu.jp
-Access to Kavli IPMU
-Train and Bus Route Map **The nearest station is Kashiwanoha campus station of Tsukuba Express line.
-ipmu.jp
-Hotels
-Hotels near IPMU   **C. F. :    Sorry, only displayed in Japanese   Hotel name Location Contact A Mitsui Garden Hotel Kashiwanoha   2min walk from Kashiwanoha- campus station, West TEL: 04-7134-3131
-Google My MapsGoogle My Maps
-AI4Phys workshop - Google My Maps
-Important places (82 kB)
