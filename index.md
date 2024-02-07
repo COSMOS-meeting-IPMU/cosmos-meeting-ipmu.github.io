@@ -21,12 +21,9 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 * Registration deadline: May 31, 2024
 * Registration form: closed
 ## Schedule (July 8 - 12)
-Science sessions each morning (9-12am)\
-Afternoon: working groups\
-  *Monday-Tuesday:COSMOS-Web JWST working groups\
-  *Wednesday: Free afternoon or group excursions\
-  *Thursday:ALMA [CHAMPS]\
-  *Friday: ALMA [ALPINE/CRISTAL/JWST-IFU]\
+Monday:    COSMOS-Web JWST working groups 
+Tuesday:   ALMA/COSMOS working groups (CHAMPS, ALPINE/CRISTAL/JWST-IFU, A3COSMOS)
+Weds-Fri:  Science meeting
 
 * [Detailed schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1995226109&single=true)
 * [Fireslides](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=680479747&single=true): 1 minute presentation
@@ -38,7 +35,7 @@ Afternoon: working groups\
 
 ## Guest speakers
 [Bert Chan](https://chakazul.github.io/) (Google DeepMind)\
-[Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
+
 
 ## Organizers
 SOC:\
