@@ -18,7 +18,7 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 * Contact email: cosmos2024@ipmu.jp
 ## Participants
 * [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1689797346&single=true)
-* Registration deadline: May 31, 2024
+* Registration deadline: June 14, 2024
 * Registration form: closed
 ## Schedule (July 8 - 12)\\
 * Monday:    COSMOS-Web JWST working groups
