@@ -42,7 +42,7 @@ LOC:\
 John Silverman (Kavli IPMU)\
 Boris Kalita (Kavli IPMU)
 Takumi Tanaka (Kavli IPMU)\
-Zhaixuan Liu (Kavli IPMU)\
+Zhaoxuan Liu (Kavli IPMU)\
 ## Sponsors
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
 
