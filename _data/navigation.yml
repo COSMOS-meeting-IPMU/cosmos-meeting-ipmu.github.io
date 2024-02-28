@@ -2,8 +2,8 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Registration form"
-     url: https://forms.gle/8j3NTKSgrLeGvrsR6
+   #- title: "Registration form"
+    # url: https://forms.gle/8j3NTKSgrLeGvrsR6
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
