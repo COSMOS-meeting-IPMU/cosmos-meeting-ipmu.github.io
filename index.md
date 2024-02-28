@@ -21,7 +21,7 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 * [List of participants](https://docs.google.com/spreadsheets/d/1TABRFoVNhQkIQQnmfLORZON3lPTKD0OLMDYiVt0HuW0/edit?usp=sharing)
 * Registration deadline: June 14, 2024
 * [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSeHL5Hy3DNRpN_PgOATk48tYrUznitfxajo9P7i3PZzUip5RA/viewform?usp=sf_link)
-## Schedule (July 8 - 12)\\
+## Schedule (July 8 - 12)
 * Monday:    COSMOS-Web JWST working groups
 * Tuesday:   ALMA/COSMOS working groups (CHAMPS, ALPINE/CRISTAL/JWST-IFU, A3COSMOS)
 * Weds-Fri:  Science meeting
