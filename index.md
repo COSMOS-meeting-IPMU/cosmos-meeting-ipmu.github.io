@@ -4,7 +4,7 @@ author_profile: false
 ---
 ## COSMOS-(Web) meeting 2024
 ![cosmos](/_images/COSMOS2024.jpg)
-* [Full image] (https://www.dropbox.com/scl/fi/12qw6umksubs19q6e5p6d/COSMOS2024mtg_4.png?rlkey=9rpt3ye831kar605hr9689jmt&dl=0)\\
+* [Full image](https://www.dropbox.com/scl/fi/12qw6umksubs19q6e5p6d/COSMOS2024mtg_4.png?rlkey=9rpt3ye831kar605hr9689jmt&dl=0)
 Credit:Takumi Tanaka
 ## Introduction
 The Annual COSMOS team meeting will be held in Japan. While the workshop will be focused on the COSMOS-Web NIRCAM and MIRI imaging large program, additional key projects to be discussed include the ALMA large program CHAMPS and the JWST IFU followup of ALPINE/CRISTAL galaxies. We welcome both the COSMOS team and external participants interested in COSMOS.  
