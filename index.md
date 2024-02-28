@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 layout: single
-toc: true
+toc: false
 toc_sticky: true
 ---
 ## COSMOS-(Web) meeting 2024
