@@ -8,7 +8,7 @@ toc_sticky: false
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/_images/COSMOS2024.jpg" alt="">
-  <figcaption> [Full image](/_images/COSMOS2024mtg_4.jpg), Credit:Takumi Tanaka </figcaption>
+  <figcaption> [Full image](_images/COSMOS2024mtg_4.jpg), Credit:Takumi Tanaka </figcaption>
 </figure>
 
 <!---![cosmos](/_images/COSMOS2024.jpg)
