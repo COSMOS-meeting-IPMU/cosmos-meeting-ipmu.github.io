@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 layout: single
 toc: false
-toc_sticky: true
+toc_sticky: false
 ---
 ## COSMOS-(Web) meeting 2024
 ![cosmos](/_images/COSMOS2024.jpg)
