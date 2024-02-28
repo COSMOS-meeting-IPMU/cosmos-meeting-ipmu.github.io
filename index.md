@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 ---
-COSMOS-(Web) meeting 2024
+## COSMOS-(Web) meeting 2024
 ![cosmos](/_images/COSMOS2024.jpg)
 Credit:Takumi Tanaka
 ## Introduction
