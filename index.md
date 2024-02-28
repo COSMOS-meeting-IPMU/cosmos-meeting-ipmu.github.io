@@ -1,7 +1,6 @@
 ---
 layout: default
 author_profile: false
-layout: single
 toc: false
 toc_sticky: false
 ---
