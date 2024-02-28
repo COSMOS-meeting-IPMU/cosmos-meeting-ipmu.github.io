@@ -1,8 +1,11 @@
 ---
 layout: single
 author_profile: false
+layout: single
+toc: true
+toc_sticky: true
 ---
-<!---## COSMOS-(Web) meeting 2024--->
+COSMOS-(Web) meeting 2024
 ![cosmos](/_images/COSMOS2024.jpg)
 * [Full image](/_images/COSMOS2024mtg_4.jpg)
 Credit:Takumi Tanaka
