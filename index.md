@@ -29,7 +29,7 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 * Slack and Zoom: please find the info in the announcement email
 * Contact email: cosmos2024@ipmu.jp
 ## Participants
-* [List of participants](https://docs.google.com/spreadsheets/d/12Yen5puv_XThZUYa9X7_GSEYQKyrfWt3CCdvHFyUQdU/edit?usp=sharing)
+* [List of participants](https://docs.google.com/spreadsheets/d/1md4_qTLTf_c3no6RhGVxfdox2hS_dBpRTse1IQcxAcA/edit?usp=sharing)
 * Registration deadline: June 14, 2024
 * [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSeHL5Hy3DNRpN_PgOATk48tYrUznitfxajo9P7i3PZzUip5RA/viewform?usp=sf_link)
 ## Schedule (July 8 - 12)
