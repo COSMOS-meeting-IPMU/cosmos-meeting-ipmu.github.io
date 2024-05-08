@@ -34,8 +34,8 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 * [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSeHL5Hy3DNRpN_PgOATk48tYrUznitfxajo9P7i3PZzUip5RA/viewform?usp=sf_link)
 ## Schedule (July 8 - 12)
 
-* Tuesday:   ALMA/COSMOS working groups (CHAMPS, ALPINE/CRISTAL/JWST-IFU, A3COSMOS)
-* Monday:    COSMOS-Web JWST working groups
+* Monday:   ALMA/COSMOS working groups (CHAMPS, ALPINE/CRISTAL/JWST-IFU, A3COSMOS)
+* Tuesday:    COSMOS-Web JWST working groups
 * Weds-Fri:  Science meeting
 
 * [Detailed schedule-TBD]
