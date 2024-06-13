@@ -38,7 +38,7 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 * Tuesday:    COSMOS-Web JWST working groups
 * Weds-Fri:  Science meeting
 
-* [Detailed schedule-TBD]
+* [Detailed schedule](COSMOS Team Meeting 2024 - Main Program.pdf)
 
 ## Workspaces (TBD)
 * COSMOS-Web
