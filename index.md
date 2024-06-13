@@ -35,10 +35,9 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 ## Schedule (July 8 - 12)
 
 * Monday:   ALMA/COSMOS working groups (CHAMPS, ALPINE/CRISTAL/JWST-IFU, A3COSMOS)
-* Day 1 schedule: (COSMOS Team Meeting 2024 - July 8 Workshop_day 1.pdf)
+* [Day 1 schedule](COSMOS Team Meeting 2024 - July 8 Workshop_day 1.pdf)
 * 
 * Tues - Fri:  Science meeting
-
 * [Detailed schedule](COSMOS Team Meeting 2024 - Main Program.pdf)
 
 ## Workspaces (TBD)
