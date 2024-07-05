@@ -5,7 +5,7 @@ layout: single
 toc: False
 toc_sticky: False
 ---
-## Information for comfortable stay
+##  
 ## Map
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&ehbc=2E312F&noprof=1" width="640" height="480"></iframe> 
