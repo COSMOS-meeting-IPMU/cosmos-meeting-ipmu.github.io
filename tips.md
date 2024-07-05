@@ -2,8 +2,8 @@
 permalink: /tips/
 last_modified_at: 2024-07-05
 layout: single
-toc: true
-toc_sticky: true
+toc: False
+toc_sticky: False
 ---
 
 ## Information for comfortable stay
