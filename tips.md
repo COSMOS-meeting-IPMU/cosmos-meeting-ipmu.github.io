@@ -17,7 +17,7 @@ toc_sticky: true
 
 ## Map
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>\
 [Open in Google maps](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&ll=35.893824930225215%2C139.94487818682703&z=15)
 
 ## Information for comfortable stay
