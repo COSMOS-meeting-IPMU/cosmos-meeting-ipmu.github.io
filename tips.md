@@ -11,7 +11,7 @@ toc_sticky: False
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&ehbc=2E312F&noprof=1" width="640" height="480"></iframe> 
 [Open in Google maps](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&ll=35.893824930225215%2C139.94487818682703&z=15)
 
-
+## Tips
 * [Access](https://www.ipmu.jp/visitors/access-ipmu), [shuttle bus timetable](https://www.k.u-tokyo.ac.jp/en/assets/files/shuttlebus20231001_e.pdf)
 * [Hotels](https://www.ipmu.jp/visitors/accommodation)
 * [Food near campus](https://www.ipmu.jp/visitors/where-eat)
