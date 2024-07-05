@@ -22,6 +22,7 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 ## Information
 * Time: July 8-12, 2024
 * Location: Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&usp=sharing))
+* [Travel tips](/tips/)
 * Slack and Zoom: please find the info in the announcement email
 * Contact email: cosmos2024@ipmu.jp
 ## Participants
