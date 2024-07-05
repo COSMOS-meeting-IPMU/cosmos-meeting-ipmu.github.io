@@ -6,15 +6,6 @@ toc: true
 toc_sticky: true
 ---
 
-
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/_images/COSMOS2024.jpg" alt="">
-  <figcaption> Credit: Takumi Tanaka </figcaption>
-</figure>
-
-[Full image](/_images/COSMOS2024mtg_4.jpg)
-## COSMOS-(Web) meeting 2024 
-
 ## [Map](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&ll=35.893824930225215%2C139.94487818682703&z=15)
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&ehbc=2E312F&noprof=1" width="640" height="480"></iframe> 
